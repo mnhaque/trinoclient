@@ -1,4 +1,4 @@
-module github.com/mnhaque/trinoclient/trino-sdk
+module github.com/mnhaque/trinoclient/trino-sdk v1.0.0
 
 go 1.18
 
