@@ -2,8 +2,9 @@ package request
 
 import (
 	"database/sql"
-	"trino-sdk/config"
-	"trino-sdk/trinodriver"
+
+	"github.com/mnhaque/trinoclient/trino-sdk/config"
+	"github.com/mnhaque/trinoclient/trino-sdk/trinodriver"
 )
 
 type Response struct {

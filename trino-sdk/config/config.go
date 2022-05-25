@@ -1,6 +1,6 @@
 package config
 
-import "trino-sdk/trinodriver"
+import "github.com/mnhaque/trinoclient/trino-sdk/trinodriver"
 
 type Configuration struct {
 	Uri        string
