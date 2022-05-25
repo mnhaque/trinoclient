@@ -1,8 +1,8 @@
 package client
 
 import (
-	"trino-sdk/config"
-	"trino-sdk/request"
+	"config"
+	"request"
 )
 
 type Client struct {
